@@ -1,6 +1,6 @@
 AUTHOR = 'Qasim'
 SITENAME = "Qasim's Stuff"
-SITEURL = ''
+SITEURL = 'https://qasimy123.github.io/'
 THEME = 'templates/mytheme'
 
 PATH = 'content'
